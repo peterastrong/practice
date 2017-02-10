@@ -9,6 +9,8 @@ array1.each do |number|
   end 
 end 
 
+p array2
+
 #2Give an array of hashes, add a key/value to each hash
 
 array3 =[
@@ -21,7 +23,7 @@ array3.each do |item|
 end
 
 
-# p array3
+ p array3
 
 #3 Given an array of names, create a new array where no names start with "b"
 
